@@ -181,6 +181,7 @@ nav .menu li a:hover {
 }
 .posts .post .acciones .datos .estrellita {
   text-decoration: none;
+  float: right;
 }
 .posts .post .acciones .datos .estrellita:after {
   color: #fcb92d;
